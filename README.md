@@ -1,4 +1,8 @@
-Chrome App-based Serial Connector for the Code Studio Maker APIs.
+# Chrome App-based Serial Connector  - DEPRECATED
+
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-no-red.svg)](https://bitbucket.org/lbesson/ansi-colors)
+
+This repo is deprecated because the Code.org Chrome Serial App is no longer supported. Boards now connect directly through the browser, so no app is needed to access the Code Studio Maker APIs. Read more [here](https://support.code.org/hc/en-us/articles/11304760762125-Deprecating-the-Maker-App-and-Chrome-Serial-Extension).
 
 # Setup
 
